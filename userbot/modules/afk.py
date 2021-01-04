@@ -278,7 +278,7 @@ CMD_HELP.update(
     {
         "afk": ">`.off [Alasan Opsional]`"
         "\nUsage: Menetapkan Anda sebagai afk. Balas kepada siapa saja yang memberi tag/PM's "
-        "Anda memberi tahu mereka bahwa Anda AFK(reason)."
+        "Anda, memberi tahu mereka bahwa Anda AFK(karena)."
         "\n\n>`.unoff`"
         "\nUsage: Mematikan mode AFK anda"
     }
